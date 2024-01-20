@@ -1,6 +1,8 @@
 {
-"name": "ProjectSupportPoolJapan",
-"description": "日本のカタリストプロジェクトを支援します",
-"ticker": "PSPJ",
-"homepage": "https://japantradcraftcnft.machi-design.org/"
+    "name": "ProjectSupportPoolJapan",
+    "description": "日本のカタリストプロジェクトを支援します",
+    "ticker": "PSPJ",
+    "homepage": "https://japantradcraftcnft.machi-design.org/",
+    "extended": "",
+    "nonce":"1705727121"
 }
